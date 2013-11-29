@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from unittest import TestCase
+import mock
+
+class RenameMeTestCase(TestCase):
+    def setUp(self):
+        pass
+        
+    def tearDown(self):
+        pass

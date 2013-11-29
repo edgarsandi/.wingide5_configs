@@ -1,0 +1,55 @@
+[user-preferences]
+debug.allow-dynamic-introspection = True
+debug.logfile = '<stdout>'
+debug.pretty-print-in-shells = True
+debug.resolve-properties = True
+debug.shell-always-execute-on-paste = True
+debug.shell-logfile = '<stdout>'
+debug.very-verbose-log = True
+debug.very-verbose-shell-log = True
+edit.auto-edit-colon = True
+edit.auto-edit-spaces = True
+edit.auto-edit-spaces-enforce = True
+edit.auto-edit-spaces-kw = True
+edit.autocomplete-keys = ['tab',
+                          'return']
+edit.caret-line-highlight = ((112,
+                              112,
+                              221),
+                             15)
+edit.fold-line-mode = 'above-expanded'
+edit.occurrence-indicator-style = 'box'
+edit.personality = 'eclipse'
+edit.qt-diff-color = (81,
+                      158,
+                      196)
+edit.qt-display-font = u'Ubuntu Mono,10'
+edit.qt-show-edge-markers = (1,
+                             80,
+                             (111,
+                              109,
+                              94))
+edit.show-indent-guides = True
+edit.show-line-numbers = True
+edit.tab-size = 4
+gui.all-editors-in-all-splits = False
+gui.alphabetize-tabs = False
+gui.auto-save-before-action = True
+gui.keymap-override = {'Ctrl-K': 'open-from-project'}
+gui.max-recent-files = 200
+gui.qt-color-palette = u'monokai'
+gui.qt-display-font = u'Sans Serif,8'
+gui.source-title-style = 'append-fullpath'
+guimgr.toolbar-groups = ['file',
+                         'clip',
+                         'search',
+                         'batch-search',
+                         'indent',
+                         'diff',
+                         'proj',
+                         'debug',
+                         'test']
+main.auto-rstrip-on-save = 'on-save'
+versioncontrol.git.executable = u'/usr/bin/git'
+versioncontrol.hg.executable = u'/usr/bin/hg'
+versioncontrol.log-all-commands = True

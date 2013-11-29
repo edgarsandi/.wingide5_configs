@@ -1,0 +1,3 @@
+[default]
+clip_registers = {'a': ('\n',
+                        'char')}
